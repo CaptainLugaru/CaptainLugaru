@@ -1,0 +1,5 @@
+- 👋  Hi, I’m @CaptainLugaru and here is my [Munchkin Hacker Playlist](https://youtube.com/playlist?list=PLF5f16DUjMEHiIPoPcLy2I0c89i57m0VY).
+- 👀  I’m interested in [Kotlin](https://kotlinlang.org/), [Artificial Intelligence](https://kotlinlang.org/docs/data-science-overview.html), and [Minecraft Modding](https://en.wikipedia.org/wiki/Minecraft_modding).  
+- 🌱  I’m currently learning [all about Kotlin here...](https://www.jetbrains.com/academy/)
+- 💞️  I’m looking to collaborate on my YouTube children programming channel - [Munchkin](https://youtube.com/playlist?list=PLF5f16DUjMEHiIPoPcLy2I0c89i57m0VY).
+- 📫  How to reach me - Leave comments on my channel.
