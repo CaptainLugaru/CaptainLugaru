@@ -11,9 +11,9 @@ Hi, I'm Captain Lugaru. I'm homeschooled through [Gervi Héra Vitr Labs](https:/
 - Enterprise software development
 
 **Projects:**
-- Minecraft modding (tech_adventure, munchcraft)
+- Minecraft modding 
 - [Machine Learning curriculum](https://github.com/Gervi-Hera-Vitr/google-ai-labs)
-- Contributing to [Gotham-Village](https://github.com/Gotham-Village) projects
+- Contributed to [ASE Inc](https://www.asei.systems/) as an intern.
 
 **Connect:** Visit my [portfolio](https://captainlugaru.github.io/) or create issues in my repositories.
 
